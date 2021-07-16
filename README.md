@@ -1,10 +1,10 @@
 # Token-Farm
 
-This Project is the result of a tutorial I did in order to learn Solidity and blockchain development, with the final build being a simple Token Farm. This allows the user to deposit a Cryptocurrency into a smart contract, and recieve a different ERC-20 Token. In real world examples this different ERC-20 token could be used in other features of the app, but for now this is just to show functionality.
+This project is the result of following a tutorial to build a Token Farming application for the Ethereum blockchain. This project is a fork from https://github.com/dappuniversity/defi_tutorial, and follows the tutorial to build this app. The code for the smart contracts, as well as the react front end were written by me, with the framework for the app provided by said repository.
 
 ## Tools Used:
 IDE: VS Code
-Languages/packages used: Solidity, JS, React JS, Web3, Truffle Suite, Ganache, Chai
+Languages/packages used: Solidity, React JS, Web3, Truffle Suite, and Chai for unit testing
 
 
 ## Contributing
