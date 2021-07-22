@@ -5,7 +5,3 @@ This project is the result of following a tutorial to build a Token Farming appl
 ## Tools Used:
 IDE: VS Code
 Languages/packages used: Solidity, React JS, Web3, Truffle Suite, and Chai for unit testing
-
-
-## Contributing
-Since this is not a live app, any contibutions will be denied.
