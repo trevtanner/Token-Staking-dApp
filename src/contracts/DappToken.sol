@@ -1,5 +1,6 @@
 pragma solidity ^0.5.0;
 
+
 contract DappToken {
     string  public name = "Dapp Token";
     string  public symbol = "DAPP";
